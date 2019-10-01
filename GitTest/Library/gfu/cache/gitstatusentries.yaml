@@ -1,0 +1,2022 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-01T14:21:39.688-06:00
+  initializedAtString: 2019-10-01T14:17:47.520-06:00
+  entries:
+  - path: GitTest\Assets\Plugins.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\assetDatabase3
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\EditorInstance.json
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\branches.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\gituser.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Library\StateCache\Hierarchy\2a5b95-mainStage.json
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Library\StateCache\Hierarchy\2a5b95-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\2a5b95-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\.icon.png
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\.icon.png
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\.icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\136dc24f151211d438acee17aff4e934\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\151a1d946b98deb4b98445400983ba92\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\15ca2bebf173f2d4484686a03a45b56d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\181f65fb096cedd4493bc9971257d8b1\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\18e096a98c2704c40a818dd1214cd179\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\23c8bee69b591054094d32918f98facd\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\480071253ef427a4cbc55ef1fedca3e5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\555cd6f54c03341b1970d950df1a5ee5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\5a2082a44711bad4b90f693579c2b336\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\636d33ae594884e7d80b569f429d245d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\6e4df876417ac4c4f8862a5234b25615\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\720712be6e31c444f88f57bb85bf5fa5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\790749ba7e4b18141953e39cb13f1b79\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\868fbb4c41814baebc00f96e24ede2f8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\877ef3585573ce44eab899298be23158\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a0ded7adcc817ce489fec07977f16d13\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\a83159a46d87d2a4f8cec651049b9231\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c5c83d14802e712408f23409f3c59e26\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ab\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\c743ae24ee231884887054d20ccdd0ae\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\cad92998c5182496e8b989b406d9f156\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d516f2a1bec6a9645a084ef8c9237132\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\dae2ecee8a704dd59797e26554ff8606\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\ddb8611e748af425a82a497ac5a98c0c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\preview.png
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\preview.png
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f81094832d834c64d93b198cb16b6a3e\preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    projectPath: Temp\Export Package\49cb782fbe6e8d547b5f493ebaa800d0\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    projectPath: Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityLockfile
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-021c88dede86b31488c83b8a27cf17a6
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-021c88dede86b31488c83b8a27cf17a6
+    projectPath: Temp\UnityTempFile-021c88dede86b31488c83b8a27cf17a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-0efe3c1ca22b76f4db7e6e59b2c9cc39
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-0efe3c1ca22b76f4db7e6e59b2c9cc39
+    projectPath: Temp\UnityTempFile-0efe3c1ca22b76f4db7e6e59b2c9cc39
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-111cdce81b5fc874c992949ae547b397
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-111cdce81b5fc874c992949ae547b397
+    projectPath: Temp\UnityTempFile-111cdce81b5fc874c992949ae547b397
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-11ce2cb95dc9bea4e80daa8c0f230fb0
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-11ce2cb95dc9bea4e80daa8c0f230fb0
+    projectPath: Temp\UnityTempFile-11ce2cb95dc9bea4e80daa8c0f230fb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-192799780decc2d439040cd71390397a
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-192799780decc2d439040cd71390397a
+    projectPath: Temp\UnityTempFile-192799780decc2d439040cd71390397a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-1fba8223896716b43945b78754df6287
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-1fba8223896716b43945b78754df6287
+    projectPath: Temp\UnityTempFile-1fba8223896716b43945b78754df6287
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-26896ce2de17df249838d8c6d5e6db20
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-26896ce2de17df249838d8c6d5e6db20
+    projectPath: Temp\UnityTempFile-26896ce2de17df249838d8c6d5e6db20
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-2921bde0174677a4c8f97752fcef52b7
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-2921bde0174677a4c8f97752fcef52b7
+    projectPath: Temp\UnityTempFile-2921bde0174677a4c8f97752fcef52b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-34ee24cd094493d4ebc56fc07cb5eda3
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-34ee24cd094493d4ebc56fc07cb5eda3
+    projectPath: Temp\UnityTempFile-34ee24cd094493d4ebc56fc07cb5eda3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-37bd816a7b550f642aa5e7840e7a9c5a
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-37bd816a7b550f642aa5e7840e7a9c5a
+    projectPath: Temp\UnityTempFile-37bd816a7b550f642aa5e7840e7a9c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-3db41ed56f1037745b93e108fe8a68d6
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-3db41ed56f1037745b93e108fe8a68d6
+    projectPath: Temp\UnityTempFile-3db41ed56f1037745b93e108fe8a68d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-4e96553412bce62458b20854c93ad4ca
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-4e96553412bce62458b20854c93ad4ca
+    projectPath: Temp\UnityTempFile-4e96553412bce62458b20854c93ad4ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-5ba93f59a76f3294087f72fb013b7928
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-5ba93f59a76f3294087f72fb013b7928
+    projectPath: Temp\UnityTempFile-5ba93f59a76f3294087f72fb013b7928
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-5db1f207da139fd4d90fb46ca67584d7
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-5db1f207da139fd4d90fb46ca67584d7
+    projectPath: Temp\UnityTempFile-5db1f207da139fd4d90fb46ca67584d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-655ab3e155134584c84e28f823610a91
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-655ab3e155134584c84e28f823610a91
+    projectPath: Temp\UnityTempFile-655ab3e155134584c84e28f823610a91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-66c8439c7d506ee4bbbfd4f8cb05dbd2
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-66c8439c7d506ee4bbbfd4f8cb05dbd2
+    projectPath: Temp\UnityTempFile-66c8439c7d506ee4bbbfd4f8cb05dbd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-6e39d359811f13e409e9fa095305f1e4
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-6e39d359811f13e409e9fa095305f1e4
+    projectPath: Temp\UnityTempFile-6e39d359811f13e409e9fa095305f1e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-a85bef337e212d44d966c047aa2c43c1
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-a85bef337e212d44d966c047aa2c43c1
+    projectPath: Temp\UnityTempFile-a85bef337e212d44d966c047aa2c43c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-c0dc09d150c7d05448c3188ce22ac01f
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-c0dc09d150c7d05448c3188ce22ac01f
+    projectPath: Temp\UnityTempFile-c0dc09d150c7d05448c3188ce22ac01f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-c39a63a17bc22234899165fafaf875fe
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-c39a63a17bc22234899165fafaf875fe
+    projectPath: Temp\UnityTempFile-c39a63a17bc22234899165fafaf875fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-c9111e67068a6864da7029d8222296df
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-c9111e67068a6864da7029d8222296df
+    projectPath: Temp\UnityTempFile-c9111e67068a6864da7029d8222296df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-d95122bf33c0cbe42b9a90b574736b2e
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-d95122bf33c0cbe42b9a90b574736b2e
+    projectPath: Temp\UnityTempFile-d95122bf33c0cbe42b9a90b574736b2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-f04aa5b6643a9fd41a3b8c2c1fe206f6
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-f04aa5b6643a9fd41a3b8c2c1fe206f6
+    projectPath: Temp\UnityTempFile-f04aa5b6643a9fd41a3b8c2c1fe206f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: GitTest\Temp\UnityTempFile-f68efe77b8e517b4f89ac461cf7d57c0
+    fullPath: D:\drago\Documents\BootGit\GIMM-ClientProject\GitTest\Temp\UnityTempFile-f68efe77b8e517b4f89ac461cf7d57c0
+    projectPath: Temp\UnityTempFile-f68efe77b8e517b4f89ac461cf7d57c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
